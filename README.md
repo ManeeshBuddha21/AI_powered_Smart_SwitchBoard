@@ -49,12 +49,14 @@ Unlike basic smart switchboards, this system:
 
 It's built for real-world deployment — not just a hobby project.
 
-https://youtube.com/shorts/DKuXEgCTk5c
+
 
 ---
 ##  Open Source Notice
 
 This project is currently not open-sourced due to ongoing development and potential patent application. Only the high-level architecture and design are shared publicly.
+However, you can watch the demo video of the project through the YouTube link https://youtube.com/shorts/DKuXEgCTk5c
+.
 
 If you're interested in a technical walkthrough or demo access, please reach out via LinkedIn or email.
 
