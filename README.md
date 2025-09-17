@@ -49,6 +49,8 @@ Unlike basic smart switchboards, this system:
 
 It's built for real-world deployment — not just a hobby project.
 
+https://youtube.com/shorts/DKuXEgCTk5c
+
 ---
 ##  Open Source Notice
 
